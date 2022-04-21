@@ -1,1 +1,2 @@
-dotnet run --project src/discension.csproj
+cd src
+dotnet run
